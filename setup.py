@@ -27,5 +27,7 @@ setup(
         "xlrd",
         "setuptools"  # No need for --upgrade here, just specify
     ],
+    description="Blinkit OSA web scraper",
+    url="https://github.com/yuvrajthakurrrr/blinkit-osa",
     python_requires=">=3.8",  # adjust based on your Python version
 )
