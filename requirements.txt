@@ -1,0 +1,45 @@
+pillow==9.1.1
+
+lxml
+
+--upgrade pip
+
+selenium
+
+pyodbc
+
+openpyxl
+
+requests
+
+beautifulsoup4
+
+azure-storage-blob
+
+SQLAlchemy
+
+boto3
+
+amazoncaptcha
+
+python.exe -m  --upgrade pip
+
+undetected-chromedriver
+
+distutils-pytest
+
+pandas
+
+chromedriver-autoinstaller
+
+requests_auth_aws_sigv4
+
+cloudscraper
+
+flair==0.14.0
+
+curl-cffi
+
+xlrd
+
+--upgrade setuptools
